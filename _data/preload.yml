@@ -1,3 +1,11 @@
-images: []
+images:
+- added: '2024-02-07 23:57:50.820933'
+  iiif: true
+  thumbnail: https://herschelarchive.org/iiif/3/152/full/800,345/0/default.jpg
+  title:
+  - none:
+    - Atlas Coelestis
+  url: https://herschelarchive.org/iiif/3/149
+  user: John Mulligan
 settings: {}
 version: '2.1'
